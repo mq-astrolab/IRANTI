@@ -1,7 +1,9 @@
 # IRANTI
 Infrared Radial Velocity and New Technologies Instrument
 
-![Iranti Feathers](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+Iranti is the Pitjantjatjara, of Central Australia, word for a Red-tailed Black Cockatoo
+
+![Iranti Feathers](https://raw.githubusercontent.com/mq-astrolab/IRANTI/master/iranti-feathers-red.jpg)
 
 ## Spectrograph
 
