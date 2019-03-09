@@ -1,5 +1,5 @@
 # IRANTI
-Infrared Radial Velocity and New Technologies Instrument
+Infrared Radial Velocity Application of New Technologies Instrument
 
 Iranti is the Pitjantjatjara, of Central Australia, word for a Red-tailed Black Cockatoo
 
